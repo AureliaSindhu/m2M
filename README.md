@@ -26,5 +26,3 @@ Social Sharing and Referral Program: m2M will incorporate social sharing feature
 Customer Reviews and Ratings: Customers will be able to leave reviews and ratings for products and services they have purchased. These reviews will serve as valuable feedback for UMKMs.
 
 With the proposed solution above, m2M does not only focus on one party but two. While providing UMKMs with the resources, education, and exposure they need to succeed in the digital age, m2M's customer-centric strategy aims to create a seamless and enjoyable purchasing experience for customers. The success of Indonesia's micro-to-macro businesses will be used by m2M to promote an ecosystem that is encouraging and collaborative in order to drive economic growth and social impact.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgWO6Vy6ov5VsVkeTxngKa1%2Fm2M%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DUmdfcTcMMP0vnSEB-1" allowfullscreen></iframe>
