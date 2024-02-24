@@ -1,6 +1,8 @@
 <h1> m2M </h1>
 <h2> micro to Macro: build your own era </h2>
 
+created by: Aurelia Sindhunirmala, Aurelisa Sindhunirmala, Albertus Sindhunirmala
+
 <h3> Introduction </h3>
 
 The growth and development of UMKM (Usaha Mikro, Kecil, dan Menengah) in Indonesia has held a paramount focus due to their substantial presence and pivotal role in driving the nation’s economic growth. UMKM has contributed to presenting most of the employment, boosting local economic growth, and improving the economy. However, UMKM faces various obstacles that hinder their full potential which affects their ability to grow.  
